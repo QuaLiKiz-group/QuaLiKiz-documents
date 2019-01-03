@@ -1,4 +1,6 @@
-This repository contains documents related to QuaLiKiz. Currently under construction.
+This project has moved to GitLab: https://gitlab.com/qualikiz-group/QuaLiKiz-documents
+
+This repository contains documents related to QuaLiKiz.
 
 # Conference papers
 - [A test document] (conferences/test_document_pdf.pdf)
